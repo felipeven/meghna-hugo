@@ -1,4 +1,4 @@
-baseURL = "https://setasdesiecha-fungi"
+baseURL = "https://setasdesiecha-fungi.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
